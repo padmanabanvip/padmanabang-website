@@ -1,0 +1,41 @@
+.div22{          
+    margin-left: 12px;
+}
+.div2{
+    display: grid;
+    grid-template-columns: 44px 1fr;
+    margin-top: 15px;
+}
+.two{
+    width: 100%;
+    border-radius: 22px;
+ 
+}
+
+
+.one{
+    width: 100%;
+
+}
+.time1{
+    position: absolute;
+    background-color: black;
+    color: white;
+    right: 8px;
+    bottom: 10px;
+    font-size: 12px;
+    padding-right: 6px;
+    padding-left: 6px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    font-weight: bold;
+    font-style: arial;
+    border-radius: 2px;
+
+  
+}
+.div1{
+    position: relative;
+
+   
+}
